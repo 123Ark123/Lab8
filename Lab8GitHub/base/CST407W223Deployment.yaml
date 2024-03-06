@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: cst407
-        image: intime333/nice_docker
+        image: intime333/nice_docker:latest
         ports:
         - containerPort: 80
